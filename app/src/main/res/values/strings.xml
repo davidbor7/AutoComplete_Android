@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoComplete</string>
+    <string name="listado_de_equipos">Listado de Equipos</string>
+    <string name="agregar">Añadir</string>
+</resources>
